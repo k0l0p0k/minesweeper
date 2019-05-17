@@ -1,6 +1,6 @@
 # minesweeper
 
-Минер игра
+Минер игра<br>
 Minesweeper with gtk2.
 
 To build install gtk2 development package, on Ubuntu:
